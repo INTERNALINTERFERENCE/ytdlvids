@@ -1,0 +1,86 @@
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YT-downloader.exe.config
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YT-downloader.exe
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YT-downloader.pdb
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT_downloader.Form1.resources
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT_downloader.Properties.Resources.resources
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.csproj.GenerateResource.cache
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.csproj.CoreCompileInputs.cache
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.exe
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.pdb
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.csproj.CopyComplete
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\AngleSharp.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Buffers.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Memory.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Text.Json.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.ValueTuple.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YoutubeExplode.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\AngleSharp.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Buffers.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Memory.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Text.Json.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\System.ValueTuple.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YoutubeExplode.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\FFmpeg.NET.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\CliWrap.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YoutubeExplode.Converter.dll
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\CliWrap.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\bin\Debug\YoutubeExplode.Converter.xml
+C:\Users\Lordd\Desktop\new life\YT-downloader\YT-downloader\obj\Debug\YT-downloader.csprojAssemblyReference.cache
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YT-downloader.exe.config
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YT-downloader.exe
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YT-downloader.pdb
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\AngleSharp.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\CliWrap.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\FFmpeg.NET.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Buffers.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Memory.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Text.Json.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.ValueTuple.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YoutubeExplode.Converter.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YoutubeExplode.dll
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\AngleSharp.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\CliWrap.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Buffers.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Memory.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Text.Json.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\System.ValueTuple.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YoutubeExplode.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\bin\Debug\YoutubeExplode.Converter.xml
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.csprojAssemblyReference.cache
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT_downloader.Form1.resources
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT_downloader.Properties.Resources.resources
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.csproj.GenerateResource.cache
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.csproj.CoreCompileInputs.cache
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.csproj.CopyComplete
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.exe
+C:\Users\Lordd\Desktop\ytdl-master\YT-downloader\obj\Debug\YT-downloader.pdb
